@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4700f1cc_849b9e61",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-07-12T11:14:58Z",
+      "side": 1,
+      "message": "This should probably be moved to vendor/leaf as the package is not from this repo",
+      "revId": "b76af327ecc86537ced18cbe9b764a4add89d638",
+      "serverId": "b49086b3-c06c-47ea-b69e-65c8379e1be6"
+    }
+  ]
+}
