@@ -333,4 +333,10 @@
     </font>
   </family>
   <alias name="opposans-medium" to="opposans" weight="500" />
+
+  <family customizationType="new-named-family" name="chococooky">
+    <font weight="300" style="normal">Chococooky.ttf</font>
+  </family>
+  <alias name="chococooky-semi-bold" to="chococooky" weight="600" />
+  <alias name="chococooky-bold" to="chococooky" weight="700" />
 </fonts-modification>
