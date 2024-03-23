@@ -19,6 +19,7 @@ PRODUCT_PACKAGES += \
 
 # Fonts
 PRODUCT_PACKAGES += \
+    FontChococookyOverlay \
     FontGoogleSansOverlay \
     FontHarmonyOsSansOverlay \
     FontInterOverlay \
