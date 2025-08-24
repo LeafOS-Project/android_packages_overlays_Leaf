@@ -1,0 +1,7 @@
+runtime_resource_overlay {
+    name: "LeafBlackTheme",
+    theme: "LeafBlackTheme",
+    product_specific: true,
+    resource_dirs: ["res"],
+    sdk_version: "current",
+}
